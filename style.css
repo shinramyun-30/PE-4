@@ -1,0 +1,73 @@
+/* General Styles */
+
+body {
+    font-family: Cambria, Georgia, serif;
+    background-color: #EAF4E8;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+header {
+    background-color: #2E8B57;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation */
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #FFE082;
+}
+
+/* Sections */
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0,0,0,.15);
+}
+
+/* Form */
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #2E8B57;
+    color: white;
+    border: none;
+}
+
+footer {
+    background-color: #2E8B57;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
